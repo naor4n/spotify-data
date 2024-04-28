@@ -1,2 +1,4 @@
 # spotify-data
-Small project for analyzing my Spotify stream history
+Small project for analyzing my Spotify stream history. 
+
+
